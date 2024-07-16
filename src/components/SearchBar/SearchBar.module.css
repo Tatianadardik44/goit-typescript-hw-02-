@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 40px;
+  background-color: blue;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+  border-radius: 4px;
+}
+.btnInput {
+  display: flex;
+  max-height: 24px;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  gap: 16px;
+}
